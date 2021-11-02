@@ -1,4 +1,4 @@
-package tienda_disfraces.reto3.repositorio.Crud;
+package tienda_disfraces.reto3.Crud;
 
 import org.springframework.data.repository.CrudRepository;
 

@@ -1,4 +1,4 @@
-package tienda_disfraces.reto3.servicios;
+package tienda_disfraces.reto3.service;
 
 import java.util.List;
 import java.util.Optional;

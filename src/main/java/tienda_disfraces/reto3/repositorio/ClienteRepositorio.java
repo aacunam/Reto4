@@ -6,8 +6,8 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
+import tienda_disfraces.reto3.Crud.ClienteCrudRepositorio;
 import tienda_disfraces.reto3.modelo.Cliente;
-import tienda_disfraces.reto3.repositorio.Crud.ClienteCrudRepositorio;
 
 /**
  *

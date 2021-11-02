@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 
 import tienda_disfraces.reto3.modelo.Cliente;
-import tienda_disfraces.reto3.servicios.ClienteServicios;
+import tienda_disfraces.reto3.service.ClienteServicios;
 
 /**
  *

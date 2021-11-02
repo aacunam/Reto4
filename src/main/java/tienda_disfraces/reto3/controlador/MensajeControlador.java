@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.*;
 import org.springframework.http.HttpStatus;
 
 import tienda_disfraces.reto3.modelo.Mensaje;
-import tienda_disfraces.reto3.servicios.MensajeServicios;
+import tienda_disfraces.reto3.service.MensajeServicios;
 
 /**
  * @autor Gladys Leticia Ramirez Torres
